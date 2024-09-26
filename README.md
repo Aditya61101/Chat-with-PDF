@@ -24,8 +24,8 @@
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/chat-pdf.git
-   cd chat-pdf
+   git clone https://github.com/Aditya61101/Chat-with-PDF.git
+   cd Chat-with-PDF
    ```
 2. **Create a virtual environment**:
    ```bash
